@@ -6,19 +6,16 @@
 CPP_SRCS += \
 ../src/327_sfinal.cpp \
 ../src/DrinkOrder.cpp \
-../src/Q2.cpp \
 ../src/utilities.cpp 
 
 OBJS += \
 ./src/327_sfinal.o \
 ./src/DrinkOrder.o \
-./src/Q2.o \
 ./src/utilities.o 
 
 CPP_DEPS += \
 ./src/327_sfinal.d \
 ./src/DrinkOrder.d \
-./src/Q2.d \
 ./src/utilities.d 
 
 
